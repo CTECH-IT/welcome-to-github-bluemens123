@@ -4,7 +4,7 @@ First repository for new users
 
 Please enter your name: Maximilian Comfere
 
-Please enter your favorite color: Blue 
+Please enter your favorite color: Blue like the Ocean
 
 Save and push this file back up to GitHub. 
 Make sure to add a commit comment: "Added name and color"!
